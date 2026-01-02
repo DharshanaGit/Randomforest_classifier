@@ -64,5 +64,3 @@ if st.button("Predict Survival"):
 # -------------------------------
 # Show input data (optional)
 # -------------------------------
-with st.expander("Show Input Data"):
-    st.dataframe(input_data)
